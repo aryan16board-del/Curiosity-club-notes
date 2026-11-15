@@ -1,3 +1,3 @@
 assignment for web integration and application.
-the purpose of this assignment is to show our understanding of get hub and show how we can make commit screen depositories and how we can apply the things that we have learnt in the classroom.
+the purpose of this assignment is to show our understanding of github and show how we can make commit screen depositories and how we can apply the things that we have learnt in the classroom.
 this is part of our continuous evaluation for this minor paper.
